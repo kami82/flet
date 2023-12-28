@@ -1,1 +1,4 @@
-Flet을 스터디 하기 위한 Repo입니다.
+Flet 설치
+```
+pip install flet
+```
